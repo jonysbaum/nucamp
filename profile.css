@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-image:url(../cute\ mons.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size:cover;
+}
+h1 {
+    color: black;
+    background-color: blueviolet;
+    border:dotted 10px;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2, h3{
+    border: solid red;
+    background-color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+} 
+
+section {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
